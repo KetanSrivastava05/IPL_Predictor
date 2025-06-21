@@ -6,3 +6,6 @@ The model considers the following features:
 3. Innings number
 4. Venue
 5. Balls bowled
+Two models has been developed:
+1. XGBoost
+2. NN 
